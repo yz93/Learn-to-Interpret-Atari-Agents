@@ -1,5 +1,5 @@
 # Learn to Interpret Atari Agents
-> Paper link [Learn to Interpret Atari Agents](https://arxiv.org/abs/1812.11276). *Zhao Yang, Song Bai, Li Zhang, Philip H.S. Torr*. December 2018.
+>*Zhao Yang, Song Bai, Li Zhang, Philip H.S. Torr*. December 2018.
 
 <p align="center"><img src="demo/boxing.gif" height="93" title="boxing"> <img src="demo/breakout.gif" height="93" title="breakout"> <img src="demo/enduro.gif" height="93" title="enduro"> <img src="demo/frostbite.gif" height="93" title="frostbite"></p>
 
